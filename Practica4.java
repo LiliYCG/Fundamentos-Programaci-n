@@ -22,10 +22,10 @@ public class Practica4 {
         System.out.println("Ingresa cantidad ");
         int pesos = practica.nextInt();
         
-        double dolares = ( pesos / 17);
+        double dolares = ( pesos / 17.16);
        
         
-        double euros = (pesos / 18);
+        double euros = (pesos / 18.30);
        
        practica.close();
        
